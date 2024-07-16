@@ -1,5 +1,7 @@
 # CSS-Advanced-Project
+
 ## AIM:To create a simplified clone of Dribble Landing Page
+
 ### program:
 ### index.html
 ```
@@ -249,8 +251,12 @@ document.addEventListener('DOMContentLoaded', function () {
 });
 
 ```
+
+
 ## Output:
 <img width="960" alt="asad" src="https://github.com/user-attachments/assets/595a2e5c-020e-4277-a193-81ff75ccb321">
+
+
 
 
 ## Result:
